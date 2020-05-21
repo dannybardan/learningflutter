@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          "Hello to android",
+          "Welcome to flutter",
           style: TextStyle(
             fontSize: 20.0,
             fontFamily: "Preeti",
